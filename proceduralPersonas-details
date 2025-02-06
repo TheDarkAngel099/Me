@@ -47,48 +47,36 @@
         <div class="row">
 
           <div class="col-lg-8">
-            <h2 class="portfolio-title">Horizon Zero Dawn Case Study</h2>
+            <h2 class="portfolio-title">Procedural Personas Presentation</h2>
 
             <div class="portfolio-details-slider swiper">
-              <div class="swiper-wrapper align-items-center">
+                <div class="swiper-wrapper align-items-center">
+  
+                  <div class="swiper-slide">
+                    <img src="assets/img/portfolio/procedural_personas_title.png" alt="" style="max-width: 75%">
+                  </div>
+  
+                  <div class="swiper-slide">
+                      <img src="assets/img/portfolio/proceduralpersonaswhat.png" alt="" style="max-width: 75%">
+                  </div>
 
-                <div class="swiper-slide">
-                  <img src="assets/img/portfolio/hzdmachines.png" alt="" style="max-width: 75%">
-                </div>
-
-                <div class="swiper-slide">
-                    <img src="assets/img/portfolio/HZD_Navmesh1.png" alt="">
-                </div>
-                
-                <div class="swiper-slide">
-                    <img src="assets/img/portfolio/HZD_Navmesh1.png" alt="">
-                </div>
-
-                <div class="swiper-slide">
-                    <img src="assets/img/portfolio/HZD_Navmesh2.png" alt="">
-                </div>
-
-
-              </div>
-              <div class="swiper-pagination"></div>
+            </div>
+            <div class="swiper-pagination"></div>
             </div>
 
-          </div>
+        </div>
 
           <div class="col-lg-4 portfolio-info">
-            <h3>information</h3>
+            <h3>Information</h3>
             <ul>
               <!-- <li><strong>Category</strong>: Web design</li> -->
-              <li><strong>Full Document</strong> : <a href= "assets/pdfs/IAPG_Case_Study_HZD_AI (1).pdf">The AI of HZD</a></li>
+              <li><strong>Full presentation pdf</strong> : <a href= "assets/pdfs/PPersonasFinal 1.pdf">Procedural Personas</a></li>
             </ul>
 
-            <p> Horizon Zero Dawn (HZD) is a third-person, open-world role-playing game set in a post-apocalyptic
-                world where players take on the role of Aloy, a brave and skilled hunter who seeks to uncover
-                mysteries behind an event that wiped out old civilisation and unleased deadly robots.
-                AI plays a central role in gameplay. HZD features several AI systems, notably the Navigation Mesh
-                system for pathfinding, Hierarchical task network planner, and Behaviour trees to control NPCs.
-                Additionally, HZD also uses the ML algorithm (inverse kinematics) to create realistic animations for
-                creatures.
+            <p> I delivered a presentation on procedural personas, where I delved into the concept of procedural personas, contrasting them with traditional personas.
+                The presentation covered the training of agents, their benefits, limitations, and applications. 
+                I discussed notable studies, including predicting personas using mechanic frequencies and game traces. 
+                Additionally, I explored potential future applications of procedural personas in enhancing NPC (Non-Player Character) AI in games.
             </p>
               
           </div>
